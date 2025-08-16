@@ -1,0 +1,2 @@
+ SELECT Name FROM STUDENTS WHERE Marks>75
+ Order by RIGHT(Name,3),ID ASC;
