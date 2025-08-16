@@ -9,7 +9,7 @@ Each `.sql` file corresponds to a problem statement.
 - ...
 
 ## 🏆 HackerRank Progress
-- SQL Stars: ⭐⭐⭐⭐ (Silver, in progress toward Gold)
+- SQL Stars: ⭐⭐ (Bronze, in progress toward Silver)
 - Working towards completing all SQL challenges.
 
 ## 🚀 How to Use
